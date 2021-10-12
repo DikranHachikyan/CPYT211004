@@ -16,4 +16,3 @@ st
 # print(st)
 
 # %%
-sum()
